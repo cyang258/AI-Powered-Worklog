@@ -1,7 +1,12 @@
 # React + TypeScript + Vite + Electron + Ollama
 
-This repo aims to get started building a local and private AI-powered desktop app quickly. It runs an LLM as a standalone desktop app
-This template is for electron + react + TypeScript + Ollama + sqlite3 + Chakra UI right now, I will integrate with LangChain later on.
+This project aims to create a local and private AI-powered desktop app that can
+1. Schedule my daily routine
+2. Summarize my daily work
+3. Time tracking for tasks
+4. * I also want to develop features to unlock speech to text and auto do things when I ask it without manual operate
+
+It runs an LLM as a standalone desktop app, The tech stack electron + react + TypeScript + Ollama + sqlite3 + Chakra UI right now, I will integrate with LangChain later on.
 
 <!-- <div align="center">
     <img src="./screenshots/UI.png" width="100%">
