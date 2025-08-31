@@ -16,6 +16,7 @@ It runs an LLM as a standalone desktop app, The tech stack electron + react + Ty
 
 ```bash
 npm install
+npm run rebuild
 npm run dev
 ```
 
